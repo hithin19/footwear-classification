@@ -30,8 +30,7 @@ This project implements a deep learning-based **footwear classification** system
 ## Contributing
 Feel free to **fork** this repository, create feature branches, and submit **pull requests** for improvements!
 
-## License
-This project is licensed under the **MIT License**.
+
 
 ---
 Made with ❤️ by **[Hithin]**
