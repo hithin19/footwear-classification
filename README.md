@@ -33,4 +33,4 @@ Feel free to **fork** this repository, create feature branches, and submit **pul
 
 
 ---
-Made with ❤️ by **Hithin**
+Made by **Hithin**
